@@ -1,0 +1,23 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# solution created on:,	20.09.2022 21:30:27
+# solving time:,	0.0080 s
+# objective:,	14.00
+# GAP:,	0.0000
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+Seminar: 0
+Inken,nan,w,2015,Argentinien,Leitung
+Adrian,nan,m,2010,USA,Co-Leitung
+Lisa,nan,w,2012,Frankreich,Mittelbau
+Ella,nan,w,2015,Suedafrika,Mittelbau
+Kilian,nan,m,2013,USA,Frischling
+
+Seminar: 1
+Rica,nan,w,2011,USA,Leitung
+Hanna,nan,w,2015,Irland,Co-Leitung
+Leah,nan,w,2014,USA,Mittelbau
+Gregor,nan,m,2016,USA,Mittelbau
+NA,NA,NA,NA,NA,Frischling
+
+Nicht eingeteilt: 
+Leo,nan,m,2013,USA

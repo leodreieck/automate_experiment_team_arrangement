@@ -1,0 +1,29 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# solution created on:,	20.09.2022 20:39:42
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+solving time:,	0.0060 s
+objective:,	15.00
+GAP:,	0.0000
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+Seminar: 0
+Leo,nan,leitungNA,NA,leitungLeo,nan,co-leitungNA,NA,co-leitungLeo,nan,mittelbauNA,NA,mittelbauLeo,nan,frischlingNA,NA,frischlingSeminar: 0
+Lisa,nan,leitungNA,NA,leitungLisa,nan,co-leitungNA,NA,co-leitungLisa,nan,mittelbauNA,NA,mittelbauLisa,nan,frischlingNA,NA,frischlingSeminar: 0
+Hanna,nan,leitungNA,NA,leitungHanna,nan,co-leitungNA,NA,co-leitungHanna,nan,mittelbauNA,NA,mittelbauHanna,nan,frischlingNA,NA,frischlingSeminar: 0
+Ella,nan,leitungNA,NA,leitungElla,nan,co-leitungNA,NA,co-leitungElla,nan,mittelbauNA,NA,mittelbauElla,nan,frischlingNA,NA,frischlingSeminar: 0
+Kilian,nan,leitungNA,NA,leitungKilian,nan,co-leitungNA,NA,co-leitungKilian,nan,mittelbauNA,NA,mittelbauKilian,nan,frischlingNA,NA,frischlingSeminar: 0
+Leah,nan,leitungNA,NA,leitungLeah,nan,co-leitungNA,NA,co-leitungLeah,nan,mittelbauNA,NA,mittelbauLeah,nan,frischlingNA,NA,frischlingSeminar: 0
+Gregor,nan,leitungNA,NA,leitungGregor,nan,co-leitungNA,NA,co-leitungGregor,nan,mittelbauNA,NA,mittelbauGregor,nan,frischlingNA,NA,frischlingSeminar: 0
+Adrian,nan,leitungNA,NA,leitungAdrian,nan,co-leitungNA,NA,co-leitungAdrian,nan,mittelbauNA,NA,mittelbauAdrian,nan,frischlingNA,NA,frischlingSeminar: 0
+Rica,nan,leitungNA,NA,leitungRica,nan,co-leitungNA,NA,co-leitungRica,nan,mittelbauNA,NA,mittelbauRica,nan,frischlingNA,NA,frischlingSeminar: 0
+Inken,nan,leitungNA,NA,leitungInken,nan,co-leitungNA,NA,co-leitungInken,nan,mittelbauNA,NA,mittelbauInken,nan,frischlingNA,NA,frischlingSeminar: 1
+Leo,nan,leitungNA,NA,leitungLeo,nan,co-leitungNA,NA,co-leitungLeo,nan,mittelbauNA,NA,mittelbauLeo,nan,frischlingNA,NA,frischlingSeminar: 1
+Lisa,nan,leitungNA,NA,leitungLisa,nan,co-leitungNA,NA,co-leitungLisa,nan,mittelbauNA,NA,mittelbauLisa,nan,frischlingNA,NA,frischlingSeminar: 1
+Hanna,nan,leitungNA,NA,leitungHanna,nan,co-leitungNA,NA,co-leitungHanna,nan,mittelbauNA,NA,mittelbauHanna,nan,frischlingNA,NA,frischlingSeminar: 1
+Ella,nan,leitungNA,NA,leitungElla,nan,co-leitungNA,NA,co-leitungElla,nan,mittelbauNA,NA,mittelbauElla,nan,frischlingNA,NA,frischlingSeminar: 1
+Kilian,nan,leitungNA,NA,leitungKilian,nan,co-leitungNA,NA,co-leitungKilian,nan,mittelbauNA,NA,mittelbauKilian,nan,frischlingNA,NA,frischlingSeminar: 1
+Leah,nan,leitungNA,NA,leitungLeah,nan,co-leitungNA,NA,co-leitungLeah,nan,mittelbauNA,NA,mittelbauLeah,nan,frischlingNA,NA,frischlingSeminar: 1
+Gregor,nan,leitungNA,NA,leitungGregor,nan,co-leitungNA,NA,co-leitungGregor,nan,mittelbauNA,NA,mittelbauGregor,nan,frischlingNA,NA,frischlingSeminar: 1
+Adrian,nan,leitungNA,NA,leitungAdrian,nan,co-leitungNA,NA,co-leitungAdrian,nan,mittelbauNA,NA,mittelbauAdrian,nan,frischlingNA,NA,frischlingSeminar: 1
+Rica,nan,leitungNA,NA,leitungRica,nan,co-leitungNA,NA,co-leitungRica,nan,mittelbauNA,NA,mittelbauRica,nan,frischlingNA,NA,frischlingSeminar: 1
+Inken,nan,leitungNA,NA,leitungInken,nan,co-leitungNA,NA,co-leitungInken,nan,mittelbauNA,NA,mittelbauInken,nan,frischlingNA,NA,frischling

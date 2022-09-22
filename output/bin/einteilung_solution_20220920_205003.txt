@@ -1,0 +1,31 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# solution created on:,	20.09.2022 20:50:03
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# solving time:,	0.0070 s
+# objective:,	-36.00
+# GAP:,	0.0000
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+Seminar: 0
+Kilian,nan,m,frischling
+Lisa,nan,w,mittelbau
+Hanna,nan,w,mittelbau
+Adrian,nan,m,co-leitung
+Inken,nan,w,leitung
+
+Seminar: 1
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+NA,NA,NA,frischling
+Ella,nan,w,mittelbau
+Leah,nan,w,mittelbau
+Gregor,nan,m,co-leitung
+Rica,nan,w,leitung

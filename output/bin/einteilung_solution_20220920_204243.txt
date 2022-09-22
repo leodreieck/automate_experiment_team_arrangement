@@ -1,0 +1,20 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# solution created on:,	20.09.2022 20:42:43
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+solving time:,	0.0040 s
+objective:,	15.00
+GAP:,	0.0000
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+Seminar: 0
+Lisa,nan,mittelbau
+Hanna,nan,mittelbau
+Kilian,nan,frischling
+Adrian,nan,co-leitung
+Rica,nan,leitung
+Seminar: 1
+Lisa,nan,mittelbau
+Hanna,nan,mittelbau
+Kilian,nan,frischling
+Gregor,nan,co-leitung
+Rica,nan,leitung
